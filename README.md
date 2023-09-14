@@ -5,6 +5,8 @@ c-malloc-learning
 - ptmalloc
 - tcmalloc
 
+### TODO
+- [ ] print memory content
 
 ### Reference
 - [为什么我说C/C++程序员都要阅读Redis源码之：zmalloc与Redis的内存管理 - 知乎](https://zhuanlan.zhihu.com/p/60925899)
